@@ -1,0 +1,2 @@
+This repository contains the notebook "Tensorflow tutorial", which is part of Andrew Ng's Deep Learning specialization.
+It covers the entire workflow for a deep learning problem to be dealt with in Tensorflow.
